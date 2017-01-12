@@ -7,12 +7,12 @@ This is in response to Kuali's request to design an elevator system.
 ##Initial Thinking
 
 A building has one or more Elevators that need to operate in unison.  Each
-elevator has controls for it's own actions, triggered by passengers pushing
+elevator has controls for its own actions, triggered by passengers pushing
  buttons.  In addition a central Dispatcher needs to coordinate system level
  requests by passengers who haven't yet boarded an elevator.
 
 **Note:**
-The numbers indicate in the code (e.g. Req#1) correspond to your requirements doc.
+The numbers indicated in the code (e.g. Req#1) correspond to your requirements doc.
 
 ##Design
 Elements of the system. 
